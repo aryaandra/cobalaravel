@@ -23,13 +23,6 @@ Route::get('/posts', function () {
             consequatur, modi ipsa earum veniam, minima fugiat ratione officia nostrum praesentium aut, harum atque
             nesciunt. Aperiam repudiandae vero sunt distinctio?'
         ],
-        [
-            'title' => 'Artikel 3',
-            'author' => 'Asep',
-            'body' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur molestias, totam
-            eveniet in delectus, magni nesciunt similique natus rerum, vel optio ducimus sapiente saepe! Nemo
-            consequuntur corporis quas voluptatibus assumenda?'
-        ]
     ]);
 });
 
